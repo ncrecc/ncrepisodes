@@ -1,0 +1,2 @@
+Name,Description,Image,ImageOffset,Rule Change,Apply On Continue
+The Warrior?,Your skillcard no longer changes.,_warrior,-90|-20,self.setvar(~ncrthewarriorstopskillcardshuffle~|1);,YES
